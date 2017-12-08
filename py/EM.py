@@ -34,4 +34,4 @@ def check_details_and_language(details):
 			return "http://em.emedu.org.tw/images/" + l + '/' + details
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0")
