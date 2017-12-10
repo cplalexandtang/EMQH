@@ -13,4 +13,4 @@ Electromagnetics Quiz Helper,  a.k.a. EMQH, is designed to assist students to de
 2. 開始作答後，在題目圖片上按右鍵，選擇有 EMQH Logo 的 View Answer 選項，即可看到答案
 
 ## Acknowledgement
-Thanks to Mr.Vincent Han for discovering severe bugs of EMHQ so that I could fix it. I forgot to add problems in Englisg version initially, which causes errors when user tries to view the answer of English problems.
+Thanks to Mr.Vincent Han for discovering severe bugs of EMHQ so that I could fix it. I forgot to add problems in English version initially, which causes errors when user tries to view the answer of English problems.
